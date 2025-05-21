@@ -90,3 +90,10 @@ input:focus {
   font-size: 2.4rem;
   font-weight: 700;
 }
+button {
+  font-family: inherit;
+  font-size: 2rem;
+  background-color: #f0d2ce;
+  padding: 1.6rem 3.2rem;
+  cursor: pointer;
+}
